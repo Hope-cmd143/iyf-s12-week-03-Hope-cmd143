@@ -3,3 +3,6 @@
 "cd iyf-s12-week-03-Hope-cmd143" 
 "dir" 
 "git clone https://github.com/Hope-cmd143/iyf-s12-week-03-Hope-cmd143.git" 
+"git clone https://github.com/Hope-cmd143/iyf-s12-week-03-Hope-cmd143.git" 
+"cd iyf-s12-week-03-Hope-cmd143" 
+git clone https://github.com/Hope-cmd143/iyf-s12-week-03-Hope-cmd143.git 
